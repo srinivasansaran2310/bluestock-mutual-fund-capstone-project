@@ -1,0 +1,39 @@
+DAY 1 DATA QUALITY REPORT
+
+Datasets Loaded Successfully: 10
+
+1. 01_fund_master.csv
+Status: Loaded Successfully
+
+2. 02_nav_history.csv
+Status: Loaded Successfully
+
+3. 03_aum_by_fund_house.csv
+Status: Loaded Successfully
+
+4. 04_monthly_sip_inflows.csv
+Status: Loaded Successfully
+
+5. 05_category_inflows.csv
+Status: Loaded Successfully
+
+6. 06_industry_folio_count.csv
+Status: Loaded Successfully
+
+7. 07_scheme_performance.csv
+Status: Loaded Successfully
+
+8. 08_investor_transactions.csv
+Status: Loaded Successfully
+
+9. 09_portfolio_holdings.csv
+Status: Loaded Successfully
+
+10. 10_benchmark_indices.csv
+Status: Loaded Successfully
+
+Observations:
+- All datasets were loaded using Pandas.
+- Data types were inspected.
+- First five rows were reviewed.
+- No loading errors found.
