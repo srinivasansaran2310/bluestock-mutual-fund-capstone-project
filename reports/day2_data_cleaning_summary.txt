@@ -1,0 +1,7 @@
+Day 2 Data Cleaning Summary
+
+1. Loaded datasets successfully.
+2. Checked dataset dimensions.
+3. Checked missing values.
+4. Checked duplicate records.
+5. Documented findings.
