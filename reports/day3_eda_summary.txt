@@ -1,0 +1,12 @@
+Day 3 EDA Summary
+
+1. NAV values showed an overall growth trend over time.
+2. Some fund houses manage significantly higher AUM than others.
+3. SIP inflows demonstrated steady investor participation.
+4. Active SIP accounts increased over time.
+5. Year-over-year SIP growth remained positive.
+6. Certain fund houses offer a larger number of schemes.
+7. Mutual fund schemes are concentrated in a few major categories.
+8. Risk categories are distributed across multiple investment styles.
+9. Expense ratios vary considerably among schemes.
+10. Most variables showed weak correlations, indicating independent fund characteristics.
