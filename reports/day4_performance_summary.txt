@@ -1,0 +1,21 @@
+DAY 4 – FUND PERFORMANCE ANALYTICS
+
+
+Completed:
+- Daily Return Calculation
+- CAGR (1-Year and 3-Year)
+- Sharpe Ratio Analysis
+- Sortino Ratio Analysis
+- Alpha & Beta Calculation using NIFTY100
+- Maximum Drawdown Analysis
+- Fund Scorecard Creation
+- Top Fund Ranking
+- Benchmark Comparison Chart
+
+Files Generated:
+- alpha_beta.csv
+- fund_scorecard.csv
+- benchmark_comparison.png
+
+Outcome:
+Evaluated mutual fund schemes using return, risk, risk-adjusted performance, benchmark comparison, and composite scoring techniques.
